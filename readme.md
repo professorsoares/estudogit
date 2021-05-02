@@ -1,5 +1,16 @@
 # Livro de Receitas
 
-Olá! Bem bindo ao meu livro de receitas
+Olá! Bem vindo ao meu livro de receitas. :man_technologist:
 
 - Strogonoff de frango
+- Novo Item
+
+## Modo de Preparo
+
+1. Teste
+2. Novo Item
+
+
+
+
+
